@@ -1,6 +1,0 @@
-"vertexlitgeneric"
-{
-	"$basetexture" "models/pumpkin/pumpkin_cut_small"
-	"$surfaceprop" "watermelon"
-	"$model" 1
-}

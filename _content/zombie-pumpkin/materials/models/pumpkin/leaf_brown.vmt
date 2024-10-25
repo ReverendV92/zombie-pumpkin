@@ -1,7 +1,7 @@
-"VertexLitGeneric" { 
-
-"$translucent" 1
-"$basetexture" "models/pumpkin/leaf_brown"
-"$nocull" 1
-
- }
+vertexlitgeneric
+{
+	$basetexture models/pumpkin/leaf_brown
+	$halflambert 1
+	$nocull 1
+	$translucent 1
+}

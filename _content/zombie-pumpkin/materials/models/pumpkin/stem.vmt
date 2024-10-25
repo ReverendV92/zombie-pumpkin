@@ -1,1 +1,5 @@
-"VertexLitGeneric" { "$basetexture" "models/pumpkin/stem" }
+vertexlitgeneric
+{
+	$basetexture models/pumpkin/stem
+	$halflambert 1
+}

@@ -1,5 +1,5 @@
-"unlitgeneric"
+vertexlitgeneric
 {
-	"$basetexture" "models/pumpkin/pumpkin_cut"
-	"$model" 1
+	$basetexture models/pumpkin/pumpkin_cut
+	$halflambert 1
 }
